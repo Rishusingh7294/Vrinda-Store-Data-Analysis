@@ -118,9 +118,9 @@ The following data preparation steps were performed:
 ```
 Vrinda-Store-Data-Analysis/
 
+├── Dashboard.png
 ├── README.md
 ├── Vrinda Store Data Analysis.xlsx
-├── Dashboard.png
 
 
 
