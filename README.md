@@ -87,6 +87,7 @@ The dashboard includes the following analysis:
 
 ---
 
+
 ##  Data Cleaning Process
 
 The following data preparation steps were performed:
@@ -99,6 +100,29 @@ The following data preparation steps were performed:
 - Prepared data for Pivot Tables
 
 ---
+
+
+#  Dashboard Preview
+
+> Upload your dashboard screenshot as **Dashboard.png** and replace the image below.
+
+```markdown
+![Dashboard](Dashboard.png)
+```
+
+---
+
+
+## Project Structure
+
+```
+Vrinda-Store-Data-Analysis/
+
+├── README.md
+├── Vrinda Store Data Analysis.xlsx
+├── Dashboard.png
+
+
 
 ##  Skills Demonstrated
 
